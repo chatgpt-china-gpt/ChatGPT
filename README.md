@@ -1,6 +1,6 @@
 # 【ChatGPT 中文版】国内访问指南（支持 GPT-4、GPT-4o、GPT-o1，无需翻墙）
 
-> 更新：2025/05/10
+> 更新：2025/05/21
 
 全面体验 **ChatGPT 中文版**，**无需翻墙**，**支持 GPT-4、4o、o1 和本地化功能**   
 本项目为用户提供一站式的 **ChatGPT 中文版使用指南**，包括国内可用的 **ChatGPT 镜像网站**推荐和使用教程，帮助快速上手 ChatGPT
@@ -9,7 +9,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-**ChatGPT 中文版**是 OpenAI 开发的 ChatGPT 模型的中文版本，专为中文用户提供更流畅、更精准的AI对话。   
+[**ChatGPT 中文版**](https://chat.lanjing.pro) 是 OpenAI 开发的 ChatGPT 模型的中文版本，专为中文用户提供更流畅、更精准的AI对话。   
 
 与官网相比，**ChatGPT 中文版**这些方面更适合国内用户：
 
@@ -23,12 +23,12 @@
 
 以下是我们精选的国内优质 **ChatGPT 中文版镜像网站**，无需翻墙就能使用：
 
-1. **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com))**
+1. **一下AI ([chat.yixiaai.com](https://chat.lanjing.pro))**
    - **支持版本**：GPT-4, GPT-3.5, GPT-4o, o1
    - **功能亮点**：支持 AI 绘画、AI 助手、AI 插件、AI PPT 等
    - **综合评分**：⭐⭐⭐⭐⭐
 
-2. **AI智慧岛 ([chat.lify.vip](https://chat.lify.vip))**
+2. **AI智慧岛 ([chat.lify.vip](https://xsimplechat.com))**
    - **支持版本**：GPT-4, GPT-3.5, GPT-4o, 4o mini, o1
    - **功能亮点**：支持多模型，AI 写作、AI 编程、AI 办公
    - **综合评分**：⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@
    - **功能亮点**：稳定快速，各种 AI 工具
    - **综合评分**：⭐⭐⭐⭐
 
-4. **蓝鲸AI ([lanjing.ai](https://lanjing.ai))**
+4. **蓝鲸AI ([lanjing.ai](https://lanjing.pro))**
    - **支持版本**：GPT-4, GPT-4o
    - **功能亮点**：界面简洁，适合初学者
    - **综合评分**：⭐⭐⭐
@@ -72,7 +72,7 @@
 
 ## 如何使用 ChatGPT 中文版？
 
-1. **选择镜像网站**：访问推荐的镜像站点（如 **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com))**）。
+1. **选择镜像网站**：访问推荐的镜像站点（如 **一下AI ([chat.yixiaai.com](https://chat.lanjing.pro))**）。
 2. **扫码使用**：扫码登录，进入聊天页，输入问题即可获得回答。
 3. **选择 GPT 模型**：根据需求选择 GPT-4 或 GPT-3.5。
 4. **开始对话**：畅享中文聊天体验，支持写作、编程、翻译、办公等功能。
